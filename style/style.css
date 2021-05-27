@@ -42,10 +42,9 @@ header li {
     justify-content: center;
     align-content: center;
     margin-bottom: 0;
-    margin-top: 25%;
+    margin-top: 200px;
 }
 
-}
 /* Search box section */
 #search {
     display: block;
@@ -54,13 +53,13 @@ header li {
 
 #mic_icon {
     position: absolute;
-    padding: 25px 50px 50px 300px;
+    padding: 25px 55px 40px 515px;
 }
 
 #searchbox {
     position: relative;
-    width: 25em;
-    height: 30px;;
+    width: 550px;
+    height: 40px;
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 20px;
@@ -100,7 +99,7 @@ button:hover {
     display: flex;
     justify-content: center;
     margin-top: 10px;
-    margin-bottom: 100px;;
+    margin-bottom: 320px;
     font-size: small;
     color: #222;
 }
@@ -116,14 +115,9 @@ button:hover {
 }
 #footer_bottom {
     background-color: #f2f2f2;
-
+    margin-bottom: 0;
     display: flex;
-    justify-content: space-between    
-}
-#footer_bottom_left {
-    
-}
-#footer_bottom_right {
+    justify-content: space-between;
 
 } 
 /* padding from here solved left spacing beside "About" */
@@ -131,15 +125,18 @@ button:hover {
     display: flex;
     flex-direction: row;
     padding: 0px 0px 0px 10px;
+    padding-bottom: 0;
 
 }
 
 #footer_bottom_right_ul {
     display: flex;
     flex-direction: row;
+    padding-bottom: 0;
 }
 
 footer {
     color: rgba(0,0,0,.54);
     font-size: 15px;
+    margin-bottom: 0;
 }
