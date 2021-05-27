@@ -67,7 +67,7 @@ header li {
     color: rgba(0,0,0,.87);
     box-shadow: 0 0 2px rgb(114, 111, 111);
     /* This is how to put img inside Searchbox */
-    background: transparent url(/image/search_black.png)left no-repeat;
+    background: transparent url(../image/search_black.png)left no-repeat;
     padding-left: 20px;
 }
 #searchbox:hover {
