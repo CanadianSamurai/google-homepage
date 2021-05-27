@@ -17,13 +17,23 @@ li {
 }
 /* Header section */
 header ul {
+
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
 }
 
+
 header li {
-    margin-right: 9px;
+    margin-right: 15px;
+    font-size: 13px;
+    
+}
+.header {
+    color: #222;
+}
+#profile_pic {
+    margin-top: -5px;
 }
 
 /* Logo section */
