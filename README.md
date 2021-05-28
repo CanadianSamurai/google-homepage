@@ -1,0 +1,1 @@
+This is my personal project of making a google search page from scratch without looking at the actual codes. 
